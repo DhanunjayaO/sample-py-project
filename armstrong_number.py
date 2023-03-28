@@ -1,3 +1,5 @@
+import os
+
 def armstrong(num):
     l = len(str(num))
     temp = num
